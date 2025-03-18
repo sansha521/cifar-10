@@ -10,7 +10,12 @@ We have only used minimal libraries. The libraries are mentioned in the `require
 # Training. 
 
 We had used Jupyter notebook in the HPC burst node to train. However, we have modularized the code to run in a python file. 
-The final model we have used is ResNetSE. It is available in the directory `models/resnet_se.py`. 
+
+## Final Model:
+
+The final model used is ResNetSE, implemented in the file `models/resnet_se.py`.
+
+Please find the detailed training results, including cell-by-cell outputs, loss and accuracy graphs in the Jupyter notebook `notebooks/Resnet-2.ipynb`.
 
 > Please note that you have to change the parameters mentioned in the `config.ini` file.
 
