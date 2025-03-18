@@ -1,0 +1,5 @@
+matplotlib==3.9.4
+jupyterlab==4.0.12
+torch==2.6.0
+torchsummary==1.5.1
+torchvision==0.21.0
